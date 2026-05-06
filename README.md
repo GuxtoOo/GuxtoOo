@@ -24,7 +24,6 @@
 <h3 align="center">📫 You can talk whit me and know more about me in</h3>
 <ul>
   <li><a href="https://www.linkedin.com/in/augusto-manoel-b17b8b17a" title="LinkedIn">💼 LinkedIn</a></li>
-  </ul>
   <li><a href="augustomanoel527@gmail.com" title="Email">📧 E-mail</a></li>
   <li><a href="https://github.com/GuxtoOo" title="Github">🔧 GitHub</a></li>
 </ul>
